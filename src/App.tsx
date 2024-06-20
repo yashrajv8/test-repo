@@ -18,6 +18,7 @@ function App() {
         >
           Learn React the hard way
           test command
+          this is a random text
         </a>
       </header>
     </div>
