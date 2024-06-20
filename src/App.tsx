@@ -17,6 +17,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React the hard way. hello there. 
+          Learn React the hard way
+          test command
         </a>
       </header>
     </div>
